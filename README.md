@@ -2,7 +2,7 @@
 App para organizar finanzas personales y grupales.
 
 ## Instalación
-1. Clona el repositorio: `git clone <URL_DEL_REPOSITORIO>`
+1. Clona el repositorio: `https://github.com/1verah/Finomi-Wallet`
 2. Instala las dependencias: `npm install`
 3. Inicia el proyecto: `npx expo start`
 
